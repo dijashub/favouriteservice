@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.stackroute.favouriteservice.repository.FavouriteRepoTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 6.894 s - in com.stackroute.favouriteservice.repository.FavouriteRepoTest
